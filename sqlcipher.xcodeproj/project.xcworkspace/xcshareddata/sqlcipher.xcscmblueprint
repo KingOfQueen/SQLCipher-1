@@ -1,0 +1,28 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "93D3E3E441E5073027E96C189DEE6D603EEBF6CD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "93D3E3E441E5073027E96C189DEE6D603EEBF6CD" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0D4ACA4A-5D26-406A-91F6-2050768B1544",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "93D3E3E441E5073027E96C189DEE6D603EEBF6CD" : "SQLCipher\/sqlcipher\/SQLCipher\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "sqlcipher",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "sqlcipher.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lizyyy\/SQLCipher.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "93D3E3E441E5073027E96C189DEE6D603EEBF6CD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lizyyy\/SQLCipher.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "93D3E3E441E5073027E96C189DEE6D603EEBF6CD"
+    }
+  ]
+}
